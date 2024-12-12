@@ -98,3 +98,10 @@
 [12Dec2024 00:29:24.434] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 25899 ms
 [12Dec2024 00:29:24.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (32.504s)! For help, type "help"
 [12Dec2024 00:29:24.451] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12Dec2024 00:38:50.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: valen2o[/[::1]:41006] logged in with entity id 267 at (9.5, 65.0, 1.5)
+[12Dec2024 00:38:50.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valen2o joined the game
+[12Dec2024 00:43:27.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: valen2o has made the advancement [Sweet Dreams]
+[12Dec2024 00:45:34.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made valen2o a server operator
+[12Dec2024 00:45:40.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [valen2o: Set own game mode to Spectator Mode]
+[12Dec2024 00:46:01.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [valen2o: Set own game mode to Survival Mode]
+[12Dec2024 00:46:04.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [valen2o: Set own game mode to Spectator Mode]
