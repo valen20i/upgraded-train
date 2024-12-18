@@ -47,3 +47,8 @@
 [18Dec2024 16:29:25.877] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7296 ms
 [18Dec2024 16:29:25.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.538s)! For help, type "help"
 [18Dec2024 16:29:25.898] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Dec2024 17:12:10.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Dec2024 17:12:10.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
+[18Dec2024 17:12:17.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Dec2024 17:12:17.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: star<--[HERE]
+[18Dec2024 17:12:45.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
